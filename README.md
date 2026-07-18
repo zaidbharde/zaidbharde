@@ -54,7 +54,7 @@
 
 <p align="left">
   <a href="https://github.com/zaidbharde/FORESIGHT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaidbharde&repo=FORESIGHT&theme=default&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=zaidbharde&repo=FORESIGHT&theme=default&hide_border=true" />
   </a>
 </p>
 
@@ -63,12 +63,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaidbharde&show_icons=true&hide_border=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidbharde&hide_border=true&theme=default" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=zaidbharde&show_icons=true&hide_border=true&theme=default&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=zaidbharde&hide_border=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidbharde&layout=compact&hide_border=true&theme=default" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zaidbharde&layout=compact&hide_border=true&theme=default" />
 </p>
 
 <p align="center">
