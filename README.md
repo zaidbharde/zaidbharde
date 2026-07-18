@@ -1,20 +1,89 @@
-# 💫 About Me:
-- 🛠️ I'm currently working on **my full-stack projects**<br>- 🤝 I'm looking to collaborate on **open source projects & AI tools**<br>- 🙏 I'm looking for help with **Machine Learning & Cybersecurity**<br>- 🌱 I'm currently learning **AI/ML and Ethical Hacking**<br>- 💬 Ask me about **Full-Stack Development, Web Dev, Open Source**<br>- ⚡ Fun fact: **I love breaking things just to figure out how to fix them**<br>
+<h1 align="center">Hi 👋, I'm Zaid Bharde</h1>
+<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Learner</h3>
 
+<p align="center">
+  <a href="https://github.com/zaidbharde">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+FORESIGHT+%E2%80%94+UPI+Fraud+Detection+System;FastAPI+%2B+Kotlin+%2B+XGBoost+%2B+ML;Diploma+Engineering+Student+%40+AIKTC+Panvel;Learning+Cybersecurity+%7C+Linux+%7C+CTFs" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zxidd09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ZaidBharde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaidbharde09@gmail.com) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaidbharde&label=Profile%20Views&color=2E86C1&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/zaidbharde?label=Followers&style=flat&color=2E86C1" alt="followers" />
+</p>
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=zaidbharde&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=zaidbharde&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=zaidbharde&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zaidbharde&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+### 🚀 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 🎓 Second-year Diploma Engineering student at **Anjuman-I-Islam Abdul Razzaq Kalsekar Polytechnic, Panvel**
+- 🔭 Currently building **FORESIGHT** — a hybrid XGBoost + rule-engine UPI fraud detection system
+- 🌱 Learning **Cybersecurity** (Linux → Networking → Python → TryHackMe/CTFs)
+- 💻 Comfortable across full-stack (FastAPI, Flask), Android (Kotlin + Jetpack Compose), and ML pipelines
+- 🤝 Enjoy helping peers polish their own project presentations and decks
+- ⚡ Fun fact: reached OverTheWire Bandit Level 5–6 while building out my security fundamentals
 
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-005A9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
+
+---
+
+### 🌟 Featured Project — FORESIGHT
+
+> **Hybrid ML + Rule-Engine UPI Fraud Detection System**  
+> FastAPI backend · Kotlin/Jetpack Compose Android client · XGBoost model trained on IEEE-CIS dataset (590K transactions)
+
+- 📊 **Recall:** 73.84% | **ROC-AUC:** 0.8511
+- 🧠 SHAP-based explainability for transparent fraud decisions
+- 📱 15-screen Android app (Compose BOM 2026.06, Material3) with a premium fintech-grade UI
+- ⚖️ Combines deterministic rule engine with ML scoring for robust real-time detection
+
+<p align="left">
+  <a href="https://github.com/zaidbharde/FORESIGHT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaidbharde&repo=FORESIGHT&theme=default&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaidbharde&show_icons=true&hide_border=true&theme=default&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidbharde&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidbharde&layout=compact&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zaidbharde&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/zaidbharde"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Add your LinkedIn / email / Twitter links below -->
+  <!-- <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+</p>
+
+<p align="center"><i>⭐ Currently deep-diving into fraud detection ML + Android UI polish. Always open to collaborate!</i></p>
