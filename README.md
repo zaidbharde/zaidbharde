@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/zaidbharde">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+FORESIGHT+%E2%80%94+UPI+Fraud+Detection+System;FastAPI+%2B+Kotlin+%2B+XGBoost+%2B+ML;Diploma+Engineering+Student+%40+AIKTC+Panvel;Learning+Cybersecurity+%7C+Linux+%7C+CTFs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Building+FORESIGHT+%E2%80%94+UPI+Fraud+Detection+System;FastAPI+%2B+Kotlin+%2B+XGBoost+%2B+ML;Final-year+Diploma+Engineering+Student;Learning+Cybersecurity+%7C+Linux+%7C+CTFs" alt="Typing SVG" />
   </a>
 </p>
 
