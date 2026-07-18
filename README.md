@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Second-year Diploma Engineering student at **Anjuman-I-Islam Abdul Razzaq Kalsekar Polytechnic, Panvel**
+- 🎓 Final-year Diploma Engineering student at **Anjuman-I-Islam Abdul Razzaq Kalsekar Polytechnic, Panvel**
 - 🔭 Currently building **FORESIGHT** — a hybrid XGBoost + rule-engine UPI fraud detection system
 - 🌱 Learning **Cybersecurity** (Linux → Networking → Python → TryHackMe/CTFs)
 - 💻 Comfortable across full-stack (FastAPI, Flask), Android (Kotlin + Jetpack Compose), and ML pipelines
@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaidbharde&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=zaidbharde&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -81,9 +81,8 @@
 
 <p align="center">
   <a href="https://github.com/zaidbharde"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Add your LinkedIn / email / Twitter links below -->
-  <!-- <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+  <a href="https://www.linkedin.com/in/zaid-bharde-472933334/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zaidbharde09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐ Currently deep-diving into fraud detection ML + Android UI polish. Always open to collaborate!</i></p>
