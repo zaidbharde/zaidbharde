@@ -2,6 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidbharde/zaidbharde/main/dark.svg">
   <img src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/main/light.svg" width="100%">
 </picture>
+
 ---
 
 ### 🚀 About Me
@@ -34,7 +35,7 @@
 
 ### 🌟 Featured Project — FORESIGHT
 
-> **Hybrid ML + Rule-Engine UPI Fraud Detection System**  
+> **Hybrid ML + Rule-Engine UPI Fraud Detection System**
 > FastAPI backend · Kotlin/Jetpack Compose Android client · XGBoost model trained on IEEE-CIS dataset (590K transactions)
 
 - 📊 **Recall:** 73.84% | **ROC-AUC:** 0.8511
@@ -52,17 +53,24 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=zaidbharde&show_icons=true&hide_border=true&theme=dark&count_private=true&cache_seconds=1800" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=zaidbharde&background=0B0709&border=3A2A22&ring=D4AF37&fire=D93A50&currStreakLabel=D4AF37&sideLabels=8C8074&dates=8C8074&sideNums=E7E1D6&currStreakNum=E7E1D6&hide_border=false">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=zaidbharde&background=F6F1E7&border=D8CDBB&ring=7A0A14&fire=B3122A&currStreakLabel=7A0A14&sideLabels=8C7A68&dates=8C7A68&sideNums=3A2A22&currStreakNum=3A2A22&hide_border=false">
+</picture>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zaidbharde&layout=compact&hide_border=true&theme=dark" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-hazel-37.vercel.app/api?username=zaidbharde&show_icons=true&hide_rank=true&bg_color=0B0709&title_color=D4AF37&icon_color=D93A50&text_color=E7E1D6&border_color=3A2A22">
+  <img width="49%" src="https://github-readme-stats-eta-hazel-37.vercel.app/api?username=zaidbharde&show_icons=true&hide_rank=true&bg_color=F6F1E7&title_color=7A0A14&icon_color=B3122A&text_color=3A2A22&border_color=D8CDBB">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-hazel-37.vercel.app/api/top-langs/?username=zaidbharde&layout=compact&bg_color=0B0709&title_color=D4AF37&text_color=E7E1D6&border_color=3A2A22">
+  <img width="49%" src="https://github-readme-stats-eta-hazel-37.vercel.app/api/top-langs/?username=zaidbharde&layout=compact&bg_color=F6F1E7&title_color=7A0A14&text_color=3A2A22&border_color=D8CDBB">
+</picture>
 
-<p align="center">
-  <img src="https://github-profile-trophy-lilac-phi.vercel.app/?username=zaidbharde&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidbharde/zaidbharde/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/output/snake-light.svg" width="100%">
+</picture>
 
 ---
 
@@ -83,7 +91,3 @@
 </p>
 
 <p align="center"><i>⭐ Currently deep-diving into fraud detection ML + Android UI polish. Always open to collaborate!</i></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidbharde/zaidbharde/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/output/snake-light.svg" width="100%">
-</picture>
