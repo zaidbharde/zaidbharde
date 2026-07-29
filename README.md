@@ -69,9 +69,17 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/zaidbharde"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/zaid-bharde-472933334/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:zaidbharde09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zaid-bharde-472933334/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/zxidd09/">
+    <img src="https://img.shields.io/badge/Instagram-0B0709?style=for-the-badge&logo=instagram&logoColor=D4AF37" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zaidbharde09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0B0709?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
+  </a>
 </p>
 
 <p align="center"><i>⭐ Currently deep-diving into fraud detection ML + Android UI polish. Always open to collaborate!</i></p>
