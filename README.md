@@ -1,17 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zaid Bharde</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Learner</h3>
-
-<p align="center">
-  <a href="https://github.com/zaidbharde">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Building+FORESIGHT+%E2%80%94+UPI+Fraud+Detection+System;FastAPI+%2B+Kotlin+%2B+XGBoost+%2B+ML;Final-year+Diploma+Engineering+Student;Learning+Cybersecurity+%7C+Linux+%7C+CTFs" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaidbharde&label=Profile%20Views&color=2E86C1&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/zaidbharde?label=Followers&style=flat&color=2E86C1" alt="followers" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidbharde/zaidbharde/main/dark.svg">
+  <img src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/main/light.svg" width="100%">
+</picture>
 ---
 
 ### 🚀 About Me
