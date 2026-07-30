@@ -20,3 +20,10 @@ jobs:
         with:
           USERNAME: zaidbharde
           BRANCH_NAME: main
+          theme: github_dark
+          title_color: D4AF37
+          text_color: E7E1D6
+          bg_color: 0B0709
+          border_color: 3A2A22
+          icon_color: D93A50
+          chart_color: D4AF37
