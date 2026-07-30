@@ -56,12 +56,16 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=zaidbharde&background=0B0709&border=3A2A22&ring=D4AF37&fire=D93A50&currStreakLabel=D4AF37&sideLabels=8C8074&dates=8C8074&sideNums=E7E1D6&currStreakNum=E7E1D6&hide_border=false">
   <img width="100%" src="https://streak-stats.demolab.com/?user=zaidbharde&background=F6F1E7&border=D8CDBB&ring=7A0A14&fire=B3122A&currStreakLabel=7A0A14&sideLabels=8C7A68&dates=8C7A68&sideNums=3A2A22&currStreakNum=3A2A22&hide_border=false">
 </picture>
-
-![](https://raw.githubusercontent.com/zaidbharde/github-stats/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/zaidbharde/github-stats/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/zaidbharde/github-stats/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/zaidbharde/github-stats/generated/languages.svg#gh-light-mode-only)
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidbharde/github-stats/generated/overview.svg#gh-dark-mode-only">
+    <img width="48%" src="https://raw.githubusercontent.com/zaidbharde/github-stats/generated/overview.svg#gh-light-mode-only">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidbharde/github-stats/generated/languages.svg#gh-dark-mode-only">
+    <img width="48%" src="https://raw.githubusercontent.com/zaidbharde/github-stats/generated/languages.svg#gh-light-mode-only">
+  </picture>
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidbharde/zaidbharde/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/output/snake-light.svg" width="100%">
