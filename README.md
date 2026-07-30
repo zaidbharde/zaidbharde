@@ -71,10 +71,14 @@
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
+
+
 ![](https://raw.githubusercontent.com/zaidbharde/github-stats/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zaidbharde/github-stats/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/zaidbharde/github-stats/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zaidbharde/github-stats/generated/languages.svg#gh-light-mode-only)
+
+
 ---
 
 ### 📫 Connect With Me
