@@ -71,9 +71,6 @@
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
-</p>
 ---
 
 ### 📫 Connect With Me
