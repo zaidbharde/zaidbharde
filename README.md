@@ -61,10 +61,6 @@
   <img width="49%" src="https://github-readme-stats-eta-hazel-37.vercel.app/api?username=zaidbharde&show_icons=true&hide_rank=true&bg_color=F6F1E7&title_color=7A0A14&icon_color=B3122A&text_color=3A2A22&border_color=D8CDBB">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-hazel-37.vercel.app/api/top-langs/?username=zaidbharde&layout=compact&bg_color=0B0709&title_color=D4AF37&text_color=E7E1D6&border_color=3A2A22">
-  <img width="49%" src="https://github-readme-stats-eta-hazel-37.vercel.app/api/top-langs/?username=zaidbharde&layout=compact&bg_color=F6F1E7&title_color=7A0A14&text_color=3A2A22&border_color=D8CDBB">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidbharde/zaidbharde/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/output/snake-light.svg" width="100%">
 </picture>
