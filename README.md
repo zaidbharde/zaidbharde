@@ -71,7 +71,17 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidbharde/zaidbharde/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/output/snake-light.svg" width="100%">
 </picture>
-
+<p align="center">
+  <img width="48%" src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/main/profile-summary-card-output/radical/0-profile-details.svg" />
+  <img width="48%" src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/main/profile-summary-card-output/radical/1-repos-per-language.svg" />
+</p>
+<p align="center">
+  <img width="48%" src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/main/profile-summary-card-output/radical/2-most-commit-language.svg" />
+  <img width="48%" src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/main/profile-summary-card-output/radical/3-stats.svg" />
+</p>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/zaidbharde/zaidbharde/main/profile-summary-card-output/radical/4-productive-time.svg" />
+</p>
 ---
 
 ### 📫 Connect With Me
